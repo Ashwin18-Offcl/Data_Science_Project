@@ -15,7 +15,7 @@ Transforming <b>urban data → spatial intelligence → actionable insights</b> 
 
 # 🚀 Repository Overview
 
-```txt
+```
 Domain            : Urban Analytics / Spatial Data Science
 Project Type      : Final Semester Computing Project
 Institution       : University of Melbourne
@@ -45,7 +45,9 @@ Measuring **walkability** at scale is computationally expensive due to:
 Instead of analyzing large regions directly:
 
 ✔ Break regions into **smaller statistical units (SA1s)**
+
 ✔ Perform **localized walkability computation**
+
 ✔ Aggregate results to represent larger regions
 
 ---
@@ -63,7 +65,9 @@ Small Units (SA1) → Compute Walkability → Aggregate → Larger Regions (SA2/
 A metric that evaluates how pedestrian-friendly a region is based on:
 
 ✔ Road connectivity
+
 ✔ Population density
+
 ✔ Land-use diversity
 
 ---
@@ -102,8 +106,11 @@ A metric that evaluates how pedestrian-friendly a region is based on:
 # 🔥 Why This Approach Matters
 
 ✔ Reduces computational load
+
 ✔ Enables large-scale analysis
+
 ✔ Maintains interpretability
+
 ✔ Supports parallel processing potential
 
 ---
@@ -163,7 +170,7 @@ AURIN Data → Preprocessing → SA1 Analysis → Aggregation → Visualization 
 
 # 📁 Project Structure
 
-```txt
+```
 📁 Walkability-Melbourne
 │
 ├── notebooks/
@@ -184,8 +191,11 @@ AURIN Data → Preprocessing → SA1 Analysis → Aggregation → Visualization 
 # 📊 Key Insights Delivered
 
 ✔ Walkability variation across Melbourne suburbs
+
 ✔ Relationship between walkability & socio-economic factors
+
 ✔ Spatial clustering patterns
+
 ✔ Scalable analytics framework for urban studies
 
 ---
@@ -193,9 +203,13 @@ AURIN Data → Preprocessing → SA1 Analysis → Aggregation → Visualization 
 # 🎯 Learning Outcomes
 
 ✔ Geospatial data analysis
+
 ✔ Urban informatics concepts
+
 ✔ Statistical aggregation techniques
+
 ✔ Data visualization (static + interactive)
+
 ✔ Handling large-scale datasets efficiently
 
 ---
@@ -203,9 +217,13 @@ AURIN Data → Preprocessing → SA1 Analysis → Aggregation → Visualization 
 # 🧭 Who Is This For?
 
 ✔ Data Science students
+
 ✔ Urban planners
+
 ✔ GIS analysts
+
 ✔ Researchers in smart cities
+
 ✔ Developers exploring spatial analytics
 
 ---
@@ -215,9 +233,13 @@ AURIN Data → Preprocessing → SA1 Analysis → Aggregation → Visualization 
 This project demonstrates:
 
 ✔ Real-world data analysis skills
+
 ✔ Ability to handle large datasets
+
 ✔ Strong visualization capability
+
 ✔ Understanding of spatial systems
+
 ✔ Research-level project experience
 
 ---
